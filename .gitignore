@@ -1,0 +1,11 @@
+# Binaries
+*.exe
+/discscan
+/dist/
+
+# Scan results may contain personal paths
+*.csv
+
+# IDE
+.idea/
+.vscode/
